@@ -4,7 +4,7 @@ This application implements Steganography concept on images, where a file can be
 
 
 ## Installations 
-- You need Matlab or Octave aoftware to run the program.
+- You need Matlab or Octave softwares to run the program.
 
 
 
